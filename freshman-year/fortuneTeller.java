@@ -3,9 +3,9 @@ import java.awt.*;
 import java.applet.Applet;
 import java.awt.event.*;
 import java.util.Random;
-//magic 8 ball rachel velez
+//inspired by magic 8 ball - rachel velez
 
-public class magic8ball extends Applet implements ActionListener
+public class fortuneTeller extends Applet implements ActionListener
 {
     Random rand=new Random();
     Font font40=new Font("Comic Sans MS",1,40);
