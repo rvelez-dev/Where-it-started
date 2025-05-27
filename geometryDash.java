@@ -1,4 +1,6 @@
 //Rachel Velez Final Project
+//Background music was originally included during gameplay.
+//Removed due to copyright concerns.
 import java.awt.*;
 import java.applet.*; 
 import java.applet.Applet;
